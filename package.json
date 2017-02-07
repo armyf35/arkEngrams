@@ -1,0 +1,19 @@
+{
+  "name": "ark-engrams",
+  "version": "0.0.1",
+  "description": "arkEngrams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armyf35/arkEngrams.git"
+  },
+  "author": "Sam Phillips",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armyf35/arkEngrams/issues"
+  },
+  "homepage": "https://github.com/armyf35/arkEngrams#readme"
+}
