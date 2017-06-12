@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/armyf35/arkEngrams/issues"
   },
-  "homepage": "https://github.com/armyf35/arkEngrams#readme"
+  "homepage": "https://github.com/armyf35/arkEngrams#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.79.0",
+    "request-promise": "^4.1.1"
+  }
 }
